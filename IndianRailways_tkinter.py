@@ -52,7 +52,7 @@ def railways():
     curdor.execute(sql,val16)
     val17=("Sharn Shakti Express","Kanpur Central","New Delhi","6.30AM","11.45PM",445)
     curdor.execute(sql,val17)
-#railways() 
+railways() 
 #Remove the upper (#) if running for first time
 window = rk.Tk()
 window.geometry("500x500")
