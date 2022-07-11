@@ -4,7 +4,7 @@ from tkinter import messagebox
 from tkinter import ttk
 import random
 import mysql.connector as mani
-mycon=mani.connect(host="localhost",user="root",password='Panchadevi',database="MYdatabase")
+mycon=mani.connect(host="localhost",user="root",password='$$$$$$$$',database="MYdatabase")
 curdor=mycon.cursor(buffered=True)
 list2=[]
 list4=[]
